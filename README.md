@@ -27,7 +27,7 @@ This is a Next.js application named Car Warehouse Demo. It includes a simple hom
 
 
 
-This application is deployed on Vercel. You can view the live site at: [deployment URL]
+This application is deployed on Vercel. You can view the live site at: car-warehouse-demo-di35sl9in-desg01211517s-projects.vercel.app
 
 
 
